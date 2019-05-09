@@ -1,0 +1,4 @@
+[build]
+base="leads"
+command="yarn build"
+publish="leads/build/"
